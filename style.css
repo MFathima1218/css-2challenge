@@ -1,0 +1,73 @@
+*{
+    margin:0 ;
+    padding: 0;
+}
+.half{
+    margin-left: 120px;
+}
+.half button{
+    border-radius: 20px;
+    background-color: hsl(230, 29%, 20%);
+    color: snow;
+    border:hsl(230, 29%, 20%) ;
+    font-weight: bolder;
+    padding: 5px;
+}
+.half p{
+color:hsl(231, 7%, 65%)  ;   
+margin-top: 100px;
+line-height: 30px;
+}
+.half h1{
+    font-size-adjust: inherit;
+    margin-top:20px ;
+    font-family:Barlow Condensed;
+    font-size:45px ;
+    color:  hsl(230, 29%, 20%);
+    font-weight: bolder;
+    /* line-height: 80px; */
+}
+.full p{
+    margin-top: 30px;
+}
+.full button{
+    background-color: hsl(0, 100%, 68%) ;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 40px;
+    
+}
+.full div{
+    color:hsl(231, 7%, 65%);
+    letter-spacing: 5px;   
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 60px;
+    padding: 20px;
+    font-weight: bolder;
+}
+.pd{
+color:hsl(230, 29%, 20%); 
+
+}
+.fe{
+color: hsl(230, 29%, 20%);
+}
+.pr{
+color: hsl(230, 29%, 20%);
+}
+.lin{
+    color:hsl(231, 7%, 65%) ;
+}
+img{
+    display: flex;
+}
+.box{
+    background-color:hsl(207, 33%, 95%) ;
+    border-radius: 30px;
+    height: 300px;
+    width: 610px;
+}
